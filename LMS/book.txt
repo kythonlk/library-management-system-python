@@ -1,0 +1,4 @@
+[ISBN0001,The Solar System,Hardcover,Science,16.00,3,]
+[ISBN9876,Types of Animal Species,Paperback, Science,10.00,8,]
+[ISBN1290,Second World War, Hardcover, History,12.50,1,]
+[ISBN1235,One Of Science,Hardcover,Science,22.75,5,]
